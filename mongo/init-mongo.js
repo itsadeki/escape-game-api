@@ -1,10 +1,10 @@
 db.createUser({
-  user: "itsadeki",
-  pwd: "doesitreallymatterwhatthisis",
+  user: "a_remplir",
+  pwd: "a_remplir",
   roles: [
     {
       role: "readWrite",
-      db: "escapeGame",
+      db: "a_remplir",
     },
   ],
-});
+})
